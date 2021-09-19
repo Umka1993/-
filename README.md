@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github-umka1993.github.io/rsschool-cv/cv
+https://umka1993.github.io/rsschool-cv/cv
